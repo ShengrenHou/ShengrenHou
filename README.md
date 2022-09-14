@@ -1,7 +1,4 @@
-### Find Me heihei
-
-<!--
-**ShengrenHou/ShengrenHou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Find Me heihei
 
 - 🔭 I’m Hou Shengren, currently a PhD candidate in EWI, TU Delft. 
 - 🌱 My research interests includes 1. Reinforcement Learning based Energy Management 2. Multi-step Optimization Problem 3. Sequential Decision Making Problem
