@@ -5,7 +5,10 @@
 - Email: h.shengren@tudelft.nl
 - LinkedIn: https://www.linkedin.com/in/houshengren/
 - GitHub: github.com/ShengrenHou
-
+## Research Interests
+- Reinforcement learning implemented to real energy systems
+- Safe RL
+- Optimization problems in energy systems
 ## Education
 
 - PhD candidate, Reinforcement learning based energy system operation, Technische Universiteit Delft, 2021 - Now
