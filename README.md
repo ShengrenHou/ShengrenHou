@@ -2,6 +2,6 @@
 
 ## Contact Information
 
-- Email: h.shengren@tudelft.nl
+- Email: s.hou@tudelft.nl
 - GitHub: github.com/ShengrenHou
 
