@@ -16,7 +16,7 @@
 - 📘 PhD in **AI for Power Systems** @ Delft University of Technology (TUD)
 - 🌏 Founder of **Energy Quant Research Institution**, focusing on **trading, consulting, and applied research**
 - ⚡ Vision: To build a smarter, fully-automated electricity market that supports the global energy transition
-- 👨‍💻 Website: [Energy Quant](energyquant.net)  📫 Email: **s.hou@tudelft.nl**
+- 👨‍💻 Website: **energyquant.net**  📫 Email: **s.hou@tudelft.nl**
 
 ---
 
