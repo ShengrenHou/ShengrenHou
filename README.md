@@ -2,9 +2,9 @@
   <img src="https://github.com/your-username/your-username/blob/main/energy_trading.gif" alt="Hi, I'm Shengren Hou 👋 I'm a researcher & quant trader passionate about the energy transition.">
 </p>
 
-<h1 align="center">Hi 👋, I'm Shengren Hou (侯胜任)</h1>
+<h1 align="center">Hi 👋, I'm Shengren Hou</h1>
 <h3 align="center">
-  Quantitative Energy Trader | PhD at TU Delft | Founder of Energy Quant Research Institution<br>
+  PhD at TU Delft | Founder of Energy Quant Research Institution<br>
   Passionate about Power Markets, AI Applications, and the Future of Clean Energy
 </h3>
 
